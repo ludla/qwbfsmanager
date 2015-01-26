@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="hu_HU">
 <context>
     <name>Gauge</name>
     <message>
         <location filename="../qwbfs/src/Gauge.cpp" line="137"/>
         <source>Usage %1 (%2%) / %3 - Free %4 (%5%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Használata %1 (%2%) / %3 - Libre %4 (%5%)</translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../qwbfs/src/PartitionComboBox.cpp" line="62"/>
         <source>Add a partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Új partíció</translation>
     </message>
     <message>
         <location filename="../qwbfs/src/PartitionComboBox.cpp" line="104"/>
         <source>Enter a partition path</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjon meg egy partíciót</translation>
     </message>
     <message>
         <location filename="../qwbfs/src/PartitionComboBox.cpp" line="122"/>
         <source>Current Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuállis partíció</translation>
     </message>
 </context>
 <context>
